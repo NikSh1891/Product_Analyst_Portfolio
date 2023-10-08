@@ -9,7 +9,7 @@ I have experience in sales analytics in e-commerce, government and commercial pr
 
 
 ## Competencies
-Exploratory Data Analysis, Data Wrangling, Statistical Analysis, Data Visualization, А/В test, cohort analysis, customer segmentation
+Exploratory Data Analysis, Data Wrangling, Statistical Analysis, Data Visualization, А/В test, Cohort analysis, Customer segmentation.
 
 
 
