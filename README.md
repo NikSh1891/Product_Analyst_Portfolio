@@ -1,13 +1,21 @@
 # Nikita Shishkin - Data Analysis Portfolio
 
-## About
-Hi, I'm Nikita. 
+## About my
+My name is Nikita and I love finding solutions to problems in data.
+I am driven by the excitement of discovering new ideas and the satisfaction of using data to solve complex problems.
+I enjoy exploring different types of data, preprocessing data, finding insights, visualizing data, running statistical tests on data, making predictions, looking for patterns, identifying trends.
+In my free time, I enjoy learning new data analysis tools and techniques, and I'm always looking for opportunities to expand my knowledge and skills.
+I have experience in sales analytics in e-commerce, government and commercial procurement analytics in the field of computers and electronic equipment.
 
-- 👋 Hi, I’m @NikSh1891
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+## Competencies
+Exploratory Data Analysis, Data Wrangling, Statistical Analysis, Data Visualization, А/В test, cohort analysis, customer segmentation
+
+
+
+## Tech Stack
+Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
+
 
 <!---
 NikSh1891/NikSh1891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
