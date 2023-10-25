@@ -1,6 +1,6 @@
 # Nikita Shishkin - Data Analysis Portfolio
 
-## About my
+## About me
 My name is Nikita and I love finding solutions to problems in data.
 I am driven by the excitement of discovering new ideas and the satisfaction of using data to solve complex problems.
 I enjoy exploring different types of data, preprocessing data, finding insights, visualizing data, running statistical tests on data, making predictions, looking for patterns, identifying trends.
