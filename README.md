@@ -16,6 +16,9 @@ Exploratory Data Analysis, Data Wrangling, Statistical Analysis, Data Visualizat
 ## Tech Stack
 Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
 
+## Projects
+### [Research retention rate of the mobile game](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
+
 
 <!---
 NikSh1891/NikSh1891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
