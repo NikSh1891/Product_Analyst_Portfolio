@@ -16,7 +16,7 @@ Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
 ## Table of contents
 - [Portfolio Projects](#portfolio-projects)
     + [Research retention rate of the mobile game](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
-    + 
+    + [A\B test research](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -25,7 +25,7 @@ Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
 ## Certificates
 
 ## Contacts
-- Telegram: [@nktnlx](https://t.me/nktnlx)
+- Telegram: [@nshishkin91](https://t.me/nshishkin91)
 - E-mail: nshishkin1891@gmail.com
 
 <!---
