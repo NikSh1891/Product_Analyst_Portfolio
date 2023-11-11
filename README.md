@@ -17,6 +17,7 @@ Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
 - [Portfolio Projects](#portfolio-projects)
     + [Research retention rate of the mobile game](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
     + [A\B test research](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
+    + [RFM analysis](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -30,10 +31,17 @@ Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
 
 ### A\B test research
 **Code:** [`AB test research.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)      
-**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
+**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
 **Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, data transforms, Chi-Squared Tests, bootstrapping, defining metrics.    
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
-**Results:** Statistically based conclusion about which set of proposals can be considered the best.  
+**Results:** Statistically based conclusion about which set of proposals can be considered the best.
+
+### RFM analysis
+**Code:** [`AB test research.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)      
+**Description:** The dataset contains information about clients’ IDs, date of purchase, purchase amount and unique transaction identifier. The project includes the following steps: data loading, EDA (exploratory data analysis), .   
+**Skills:** python coding, data visualization, RFM analysis.    
+**Technology:** Python, Pandas, Numpy, Seaborn.     
+**Results:** Answers to questions posed by the product manager. 
 
 
 ## Certificates
