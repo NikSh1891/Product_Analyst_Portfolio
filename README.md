@@ -46,7 +46,7 @@ Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
 
 ### RFM analysis
 **Code:** [`Food_delivery_company.ipynb`](https://github.com/NikSh1891/NikSh1891/blob/main/Food_delivery_company.ipynb)      
-**Description:** The dataset contains information about sales of a food delivery company. Purchase amount, unique device identifier, buyer gender, city, user acquisition channel, type of action on the platform, date of action. The project includes the following steps: data loading, EDA (exploratory data analysis), Cohort's analysis. 
+**Description:** The dataset contains information about sales of a food delivery company. Purchase amount, unique device identifier, buyer gender, city, user acquisition channel, type of action on the platform, date of action. The project includes the following steps: data loading, EDA (exploratory data analysis), Cohort's analysis.  
 **Skills:** python coding, Cohort's analysis.    
 **Technology:** Python, Pandas, Numpy.     
 **Results:** Answers to questions posed by the marketing manager. 
