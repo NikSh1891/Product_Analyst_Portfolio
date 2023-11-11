@@ -37,7 +37,7 @@ Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
 **Results:** Statistically based conclusion about which set of proposals can be considered the best.
 
 ### RFM analysis
-**Code:** [`AB test research.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)      
+**Code:** [`RFM analysis.ipynb`](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)      
 **Description:** The dataset contains information about clients’ IDs, date of purchase, purchase amount and unique transaction identifier. The project includes the following steps: data loading, EDA (exploratory data analysis), .   
 **Skills:** python coding, data visualization, RFM analysis.    
 **Technology:** Python, Pandas, Numpy, Seaborn.     
