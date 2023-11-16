@@ -31,7 +31,7 @@ Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
 **Results:** Creating a function for calculation and visualization retention rate.
 
 ### A\B test research
-**Code:** [`AB test research.ipynb`](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
+**Code:** [`AB test research.ipynb`](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)    
 **Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
 **Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, data transforms, Chi-Squared Tests, bootstrapping, defining metrics.    
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
