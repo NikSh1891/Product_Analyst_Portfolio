@@ -1,29 +1,29 @@
-# Nikita Shishkin - Data Analysis Portfolio
+# Никита Шишкин - Аналитик данных
 
-## About me
+## Обо мне
 My name is Nikita and I love finding solutions to problems in data.
 I am driven by the excitement of discovering new ideas and the satisfaction of using data to solve complex problems.
 I enjoy exploring different types of data, preprocessing data, finding insights, visualizing data, running statistical tests on data, making predictions, looking for patterns, identifying trends.
 In my free time, I enjoy learning new data analysis tools and techniques, and I'm always looking for opportunities to expand my knowledge and skills.
 I have experience in sales analytics in e-commerce, government and commercial procurement analytics in the field of computers and electronic equipment.
 
-## Competencies
+## Компетенции
 Exploratory Data Analysis, Data Wrangling, Statistical Analysis, Data Visualization, А/В test, Cohort analysis, Customer segmentation.
 
-## Tech Stack
+## Технический стэк
 Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib, OS, Requests, ClickHouse, API, Airflow, Git, Tableau.
 
-## Table of contents
+## Оглавление
 - [Проекты](#portfolio-projects)
-    + [Анализ покупок клиентов компании e-commerce](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
+    + [Анализ retention rate пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
     + [Анализ результатов А/В теста пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
-    + [Анализ retention rate пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)
+    + [Анализ покупок клиентов компании e-commerce](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)
     + [Анализ данных о продажах компании по доставке продуктов](https://github.com/NikSh1891/NikSh1891/blob/main/Food_delivery_company.ipynb)
 - [Сертификаты](#certificates)
 - [Контакты](#contacts)
 
-## Portfolio Projects
-### Research retention rate of the mobile game
+## Проекты
+### Анализ retention rate пользователей мобильной игры
 **Code:** [`Retention rate.ipynb`](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)    
 **Description:** The dataset contains data about the time of registration, the time when users entered the game, and the unique user identifier. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis).
 **Skills:** data cleaning, data analysis, data visualization.  
