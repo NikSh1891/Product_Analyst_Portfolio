@@ -11,16 +11,16 @@ I have experience in sales analytics in e-commerce, government and commercial pr
 Exploratory Data Analysis, Data Wrangling, Statistical Analysis, Data Visualization, А/В test, Cohort analysis, Customer segmentation.
 
 ## Tech Stack
-Python, SQL (MySQL, Postgres), Tableau, Github, Airflow, Exel.
+Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib, OS, Requests, ClickHouse, API, Airflow, Git, Tableau.
 
 ## Table of contents
-- [Portfolio Projects](#portfolio-projects)
-    + [Research retention rate of the mobile game](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
-    + [A\B test research](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
-    + [RFM analysis](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)
-    + [Food delivery company](https://github.com/NikSh1891/NikSh1891/blob/main/Food_delivery_company.ipynb)
-- [Certificates](#certificates)
-- [Contacts](#contacts)
+- [Проекты](#portfolio-projects)
+    + [Анализ покупок клиентов компании e-commerce](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
+    + [Анализ результатов А/В теста пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
+    + [Анализ retention rate пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)
+    + [Анализ данных о продажах компании по доставке продуктов](https://github.com/NikSh1891/NikSh1891/blob/main/Food_delivery_company.ipynb)
+- [Сертификаты](#certificates)
+- [Контакты](#contacts)
 
 ## Portfolio Projects
 ### Research retention rate of the mobile game
