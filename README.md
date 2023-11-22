@@ -14,7 +14,7 @@ Exploratory Data Analysis, Data Wrangling, Statistical Analysis, Data Visualizat
 Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib, OS, Requests, ClickHouse, API, Airflow, Git, Tableau.
 
 ## Оглавление
-- [Проекты](#portfolio-projects)
+- [Проекты](#Проекты)
     + [Анализ retention rate пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
     + [Анализ результатов А/В теста пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
     + [Анализ покупок клиентов компании e-commerce](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)
