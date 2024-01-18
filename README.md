@@ -17,6 +17,7 @@ Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib,
     + [Анализ результатов А/В теста пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
     + [Анализ покупок клиентов компании e-commerce](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)
     + [Анализ данных о продажах компании по доставке продуктов](https://github.com/NikSh1891/NikSh1891/blob/main/Food_delivery_company.ipynb)
+    + [Анализ данных о продажах сети розничных магазинов](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/Sale.ipynb)
 - [Сертификаты](#Сертификаты)
 - [Контакты](#Контакты)
 
@@ -43,9 +44,16 @@ Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib,
 **Код:** [`Food_delivery_company.ipynb`](https://github.com/NikSh1891/NikSh1891/blob/main/Food_delivery_company.ipynb)    
 **Описание:** На основе данных о продажах, сделал расчеты основных продуктовых метрик для оценки эффективности деятельности и выявлении слабых мест. Провел когортный анализ для выявления когорты пользователей с наибольшей конверсией в покупку. Проанализировал воронку продаж для выявления мест где отваливается большинство клиентов. Провел анализ маркетинговых каналов для выявления самых эффективных и каналов конверсия в покупку у которых была наименьшей. Проанализировал ROMI маркетинговых каналов.     
 **Навыки:** предобработка данных, исследовательский анализ данных, когортный анализ.  
-**Инструменты:** Python, Pandas, NumPy, Matplotlib, StatsModels, Requests.  
+**Инструменты:** Python, Pandas, NumPy, Matplotlib, StatsModels, Requests.    
+
+### Анализ данных о продажах сети розничных магазинов    
+**Код:** [`Sale.ipynb`](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/Sale.ipynb)   
+**Описание:** На основе данных о продажах розничного магазина, провел анализ с визуализацией и интерпретацией выводов.     
+**Навыки:** предобработка данных, исследовательский анализ данных, визуализация.  
+**Инструменты:** Python, Pandas, Seaborn, Matplotlib.  
 
 ## Сертификаты  
+- [Курс Аналитик данных](https://drive.google.com/file/d/1WQnuzu-5p3Is_y3jO8JKoxgq-3jKlLO8/view?usp=sharing) (karpov.courses)
 
 ## Контакты  
 - Telegram: [@nshishkin91](https://t.me/nshishkin91)
