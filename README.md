@@ -13,6 +13,7 @@ Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib,
 
 ## Оглавление
 - [Проекты](#Проекты)
+    + [Анализ данных продаж сети магазинов](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/Superstore_sales.ipynb)
     + [Анализ retention rate пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
     + [Анализ результатов А/В теста пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
     + [Анализ покупок клиентов компании e-commerce](https://github.com/NikSh1891/NikSh1891/blob/main/RFM_analysis.ipynb)
@@ -22,6 +23,13 @@ Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib,
 - [Контакты](#Контакты)
 
 ## Проекты
+
+### Анализ данных продаж сети магазинов
+**Код:** [`Superstore_sales.ipynb`](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/Superstore_sales.ipynb)    
+**Описание:** Этот набор данных, содержащий информацию из различных регионов и сегментов, позволяет исследовать тенденции, закономерности и корреляции в продажах и предпочтениях клиентов. Набор данных охватывает транзакции купли-продажи, что позволяет исследователям и аналитикам понимать модели покупок, выявлять товары с высоким спросом и оценивать эффективность различных способов доставки.  
+**Навыки:** предобработка данных, исследовательский анализ данных, поиск и работа с выбросам, визуализация данных, поиск тендов и зависимостей, проверка статистических гипотез, прогнозирование продаж с помошью ML.  
+**Инструменты:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scypi.stats, Sklearn 
+
 ### Анализ retention rate пользователей мобильной игры
 **Код:** [`Retention rate.ipynb`](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)    
 **Описание:** Датасет содержит данные о времени регистрации и времени первого заходу в игру. На основе имеющихся данных о пользователях, написал функцию для расчета retention rate и ее визуализации.  
