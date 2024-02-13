@@ -28,7 +28,7 @@ Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib,
 **Код:** [`Superstore_sales.ipynb`](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/Superstore_sales.ipynb)    
 **Описание:** Этот набор данных, содержащий информацию из различных регионов и сегментов, позволяет исследовать тенденции, закономерности и корреляции в продажах и предпочтениях клиентов. Набор данных охватывает транзакции купли-продажи, что позволяет исследователям и аналитикам понимать модели покупок, выявлять товары с высоким спросом и оценивать эффективность различных способов доставки.  
 **Навыки:** предобработка данных, исследовательский анализ данных, поиск и работа с выбросам, визуализация данных, поиск тендов и зависимостей, проверка статистических гипотез, прогнозирование продаж с помошью ML.  
-**Инструменты:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scypi.stats, Sklearn 
+**Инструменты:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy.stats, Sklearn 
 
 ### Анализ retention rate пользователей мобильной игры
 **Код:** [`Retention rate.ipynb`](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)    
