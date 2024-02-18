@@ -13,6 +13,7 @@ Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib,
 
 ## Оглавление
 - [Проекты](#Проекты)
+    + [Анализ данных продаж онлайн магазина](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/E_commerce_data.ipynb)
     + [Анализ данных продаж сети магазинов](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/Superstore_sales.ipynb)
     + [Анализ retention rate пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/Retention%20rate.ipynb)
     + [Анализ результатов А/В теста пользователей мобильной игры](https://github.com/NikSh1891/NikSh1891/blob/main/AB%20test%20research.ipynb)
@@ -23,6 +24,12 @@ Python, Pandas, NumPy, SQL, PostgreSQL, SciPy, StatsModels, Seaborn, Matplotlib,
 - [Контакты](#Контакты)
 
 ## Проекты
+
+### Анализ данных продаж онлайн магазина
+**Код:** [`E_commerce_data.ipynb`](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/E_commerce_data.ipynb)    
+**Описание:** Набор данных, содержит информацию о продажах онлайн магазина, в частности данные о пользователях, о покупках и о товарах. Продакт-менеджером была поставлена задача провести ряд аналитических исследований о продажах магазина, провести когортный анализ retention и сегментацию клиентов. 
+**Навыки:** предобработка данных, исследовательский анализ данных, поиск и работа с выбросам, визуализация данных, поиск тендов и зависимостей, аналитические исследования, когортный анализ, сегментация клиентов RFM.    
+**Инструменты:** Python, Pandas, NumPy, Matplotlib, Seaborn, Requests, Urllib.parse, Calendar
 
 ### Анализ данных продаж сети магазинов
 **Код:** [`Superstore_sales.ipynb`](https://github.com/NikSh1891/Data_Analyst_Portfolio/blob/main/Superstore_sales.ipynb)    
